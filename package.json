@@ -1,0 +1,14 @@
+{
+  "name": "@vokke/validators",
+  "version": "1.0.0",
+  "description": " Common validators for forms & data entry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Validators"
+  ],
+  "author": "Jake Jarrett <jake@vokke.com.au>",
+  "license": "MIT"
+}
